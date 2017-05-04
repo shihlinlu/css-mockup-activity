@@ -53,3 +53,46 @@ body { width: 100%;}
 /*****************************************************
 * ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ******************************************************/
+/* global styles */
+
+body {
+	font-family: Helvetica Verdana sans-serif;
+}
+
+section {
+	padding: 5 rem 0;
+}
+
+
+
+/* header styles */
+header {
+	background-color: darkorange;
+	color: white;
+	padding: 2rem 0;
+}
+
+h1 {
+	margin: 0 3rem 0 0;
+	font-size: 4.5rem;
+	display: inline-block;
+}
+
+/* instructions section */
+
+/* captain picard section */
+
+/* span tag */
+
+section:nth-child(2) span {
+
+}
+
+/* professional skillz */
+
+/* footer */
+footer {
+	background-color: black;
+	color: lightgray;
+	padding: 2rem 0;
+}
